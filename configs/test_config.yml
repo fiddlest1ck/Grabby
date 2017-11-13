@@ -1,0 +1,10 @@
+urls:
+  -
+     url: "http://onet.pl"
+     delay: 120
+  -
+     url: "http://onet.pl"
+     delay: 180
+  -
+     url: "http://onet.pl"
+     delay: 75
